@@ -1,0 +1,40 @@
+12.07.2025 21:11:35,399 INFO  LoginPageClass:35 - Username is entered
+12.07.2025 21:11:35,542 INFO  LoginPageClass:37 - Password is entered
+12.07.2025 21:11:37,011 INFO  LoginPageClass:39 - Loginbutton is clicked
+12.07.2025 21:11:37,988 INFO  HomePageClass:43 - profile Picture button is clicked.
+12.07.2025 21:11:40,423 INFO  HomePageClass:47 - Logout link is cliked.
+12.07.2025 21:11:40,425 INFO  HomePageClass:47 - Logout link is cliked.
+12.07.2025 21:13:22,762 INFO  LoginPageClass:35 - Username is entered
+12.07.2025 21:13:23,325 INFO  LoginPageClass:37 - Password is entered
+12.07.2025 21:13:23,476 INFO  LoginPageClass:39 - Loginbutton is clicked
+12.07.2025 21:13:25,944 INFO  HomePageClass:43 - profile Picture button is clicked.
+12.07.2025 21:13:27,530 INFO  HomePageClass:47 - Logout link is cliked.
+12.07.2025 21:13:27,540 INFO  HomePageClass:47 - Logout link is cliked.
+12.07.2025 21:25:54,980 INFO  LoginPageClass:35 - Username is entered
+12.07.2025 21:25:55,144 INFO  LoginPageClass:37 - Password is entered
+12.07.2025 21:25:55,340 INFO  LoginPageClass:39 - Loginbutton is clicked
+12.07.2025 21:25:57,777 INFO  HomePageClass:43 - profile Picture button is clicked.
+12.07.2025 21:25:59,464 INFO  HomePageClass:47 - Logout link is cliked.
+12.07.2025 21:25:59,465 INFO  HomePageClass:47 - Logout link is cliked.
+12.07.2025 22:06:46,272 INFO  LoginPageClass:36 - Username is entered
+12.07.2025 22:10:57,960 INFO  LoginPageClass:36 - Username is entered
+12.07.2025 22:13:18,351 INFO  LoginPageClass:36 - Username is entered
+12.07.2025 22:16:38,434 INFO  LoginPageClass:36 - Username is entered
+12.07.2025 22:43:10,035 INFO  LoginPageClass:36 - Username is entered
+12.07.2025 22:43:10,427 INFO  LoginPageClass:40 - Password is entered
+12.07.2025 22:43:10,739 INFO  LoginPageClass:44 - Login button is clicked
+12.07.2025 22:43:13,267 INFO  HomePageClass:45 - profile Picture button is clicked.
+12.07.2025 22:43:14,879 INFO  HomePageClass:51 - Logout link is cliked.
+12.07.2025 22:43:14,880 INFO  HomePageClass:51 - Logout link is cliked.
+12.07.2025 22:44:35,996 INFO  LoginPageClass:36 - Username is entered
+12.07.2025 22:44:36,539 INFO  LoginPageClass:40 - Password is entered
+12.07.2025 22:44:36,871 INFO  LoginPageClass:44 - Login button is clicked
+12.07.2025 22:44:39,163 INFO  HomePageClass:45 - profile Picture button is clicked.
+12.07.2025 22:44:40,798 INFO  HomePageClass:51 - Logout link is cliked.
+12.07.2025 22:44:40,799 INFO  HomePageClass:51 - Logout link is cliked.
+12.07.2025 22:48:34,072 INFO  LoginPageClass:36 - Username is entered
+12.07.2025 22:48:34,601 INFO  LoginPageClass:40 - Password is entered
+12.07.2025 22:48:35,039 INFO  LoginPageClass:44 - Login button is clicked
+12.07.2025 22:48:37,318 INFO  HomePageClass:45 - profile Picture button is clicked.
+12.07.2025 22:48:39,756 INFO  HomePageClass:51 - Logout link is cliked.
+12.07.2025 22:48:39,757 INFO  HomePageClass:51 - Logout link is cliked.
