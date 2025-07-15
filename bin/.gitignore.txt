@@ -1,0 +1,24 @@
+# IntelliJ IDEA
+*.iml
+.idea/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Build directories
+target/
+bin/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Maven Wrapper files (if you use them)
+.mvn/wrapper/maven-wrapper.jar
+mvnw
+mvnw.cmd
